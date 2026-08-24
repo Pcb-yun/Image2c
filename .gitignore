@@ -1,0 +1,24 @@
+# Rust 编译产物
+/target/
+debug/
+release/
+
+# 依赖目录
+**/*.rs.bk
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*.log
